@@ -1,0 +1,22 @@
+C:\Users\suvor\Downloads\Task-3_C_sharp-master\Task-3_C_sharp-master\AnimalLibrary\bin\Debug\net8.0\AnimalLibrary.deps.json
+C:\Users\suvor\Downloads\Task-3_C_sharp-master\Task-3_C_sharp-master\AnimalLibrary\bin\Debug\net8.0\AnimalLibrary.dll
+C:\Users\suvor\Downloads\Task-3_C_sharp-master\Task-3_C_sharp-master\AnimalLibrary\bin\Debug\net8.0\AnimalLibrary.pdb
+C:\Users\suvor\Downloads\Task-3_C_sharp-master\Task-3_C_sharp-master\AnimalLibrary\obj\Debug\net8.0\AnimalLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suvor\Downloads\Task-3_C_sharp-master\Task-3_C_sharp-master\AnimalLibrary\obj\Debug\net8.0\AnimalLibrary.AssemblyInfoInputs.cache
+C:\Users\suvor\Downloads\Task-3_C_sharp-master\Task-3_C_sharp-master\AnimalLibrary\obj\Debug\net8.0\AnimalLibrary.AssemblyInfo.cs
+C:\Users\suvor\Downloads\Task-3_C_sharp-master\Task-3_C_sharp-master\AnimalLibrary\obj\Debug\net8.0\AnimalLibrary.csproj.CoreCompileInputs.cache
+C:\Users\suvor\Downloads\Task-3_C_sharp-master\Task-3_C_sharp-master\AnimalLibrary\obj\Debug\net8.0\AnimalLibrary.dll
+C:\Users\suvor\Downloads\Task-3_C_sharp-master\Task-3_C_sharp-master\AnimalLibrary\obj\Debug\net8.0\refint\AnimalLibrary.dll
+C:\Users\suvor\Downloads\Task-3_C_sharp-master\Task-3_C_sharp-master\AnimalLibrary\obj\Debug\net8.0\AnimalLibrary.pdb
+C:\Users\suvor\Downloads\Task-3_C_sharp-master\Task-3_C_sharp-master\AnimalLibrary\obj\Debug\net8.0\ref\AnimalLibrary.dll
+D:\ВГУ 3 курс\.net\task_3_animals\AnimalLibrary\bin\Debug\net8.0\AnimalLibrary.deps.json
+D:\ВГУ 3 курс\.net\task_3_animals\AnimalLibrary\bin\Debug\net8.0\AnimalLibrary.dll
+D:\ВГУ 3 курс\.net\task_3_animals\AnimalLibrary\bin\Debug\net8.0\AnimalLibrary.pdb
+D:\ВГУ 3 курс\.net\task_3_animals\AnimalLibrary\obj\Debug\net8.0\AnimalLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\ВГУ 3 курс\.net\task_3_animals\AnimalLibrary\obj\Debug\net8.0\AnimalLibrary.AssemblyInfoInputs.cache
+D:\ВГУ 3 курс\.net\task_3_animals\AnimalLibrary\obj\Debug\net8.0\AnimalLibrary.AssemblyInfo.cs
+D:\ВГУ 3 курс\.net\task_3_animals\AnimalLibrary\obj\Debug\net8.0\AnimalLibrary.csproj.CoreCompileInputs.cache
+D:\ВГУ 3 курс\.net\task_3_animals\AnimalLibrary\obj\Debug\net8.0\AnimalLibrary.dll
+D:\ВГУ 3 курс\.net\task_3_animals\AnimalLibrary\obj\Debug\net8.0\refint\AnimalLibrary.dll
+D:\ВГУ 3 курс\.net\task_3_animals\AnimalLibrary\obj\Debug\net8.0\AnimalLibrary.pdb
+D:\ВГУ 3 курс\.net\task_3_animals\AnimalLibrary\obj\Debug\net8.0\ref\AnimalLibrary.dll
